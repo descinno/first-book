@@ -1,0 +1,14 @@
+{
+    "tinymist.fontPaths": [
+        "${workspaceFolder}/fonts"
+    ],
+    "tinymist.preview.refresh": "onType",
+    "tinymist.preview.scrollSync": "onSelectionChange",
+    "tinymist.exportPdf": "onSave",
+    "tinymist.formatterMode": "typstyle",
+
+    "[typst]": {
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "on"
+    }
+}
